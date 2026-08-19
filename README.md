@@ -2,7 +2,7 @@
 Give Thunderbird folder rows a subtle background tint based on each folder's own icon colour.
 ## Example
 Folders with a custom icon colour are given a subtle matching background tint:
-![Thunderbird folder colour example](Screenshot for thunderbird-folder-colours.png)
+![Thunderbird folder colour example](Screenshot-thunderbird-folder-colours.png)
 What it does
 
 Thunderbird allows individual mail folders to have a custom icon colour. However, the folder pane normally displays the coloured icon while leaving the folder row background unchanged.
